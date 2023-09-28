@@ -286,7 +286,7 @@ client.search(
 
 ######################################
 #####
-#####  DANGER!!!!!!!!!!!
+# DANGER!!!!!!!!!!!
 #####
 ######################################
 # if you want to delete the documents, but keep the index, run the following:
